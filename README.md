@@ -1,4 +1,4 @@
-<h1>Custom-HandGesture-Recognition</h1>
+<h1>Custom-Hand-Gesture-Recognition</h1>
 
 
 <h2>Custom Hand Gesture Recognition using OpenCV, mediapipe and sklearn.</h2>
